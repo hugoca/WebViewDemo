@@ -10,3 +10,4 @@ public class User {
     private ObservableInt age;
     private ObservableField<String> name;
 }
+

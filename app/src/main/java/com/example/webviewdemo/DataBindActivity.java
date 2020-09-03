@@ -14,7 +14,6 @@ import com.example.webviewdemo.databinding.ActivityDataBindBinding;
 
 
 public class DataBindActivity extends AppCompatActivity {
-
     ActivityDataBindBinding mActivityMainBinding;
     ObservableField<String> title=new ObservableField<>();
 
